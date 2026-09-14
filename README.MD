@@ -1,9 +1,11 @@
-![ThirdPatch Logo](/images/THIRD-PATCH-LOGO.png)
+<img src="/images/THIRD-PATCH-LOGO.png" style="width: 300px; height: auto; align: center" />
 
 # ThirdPatch - Third-Party Patch Management for MSPs
 
 ## Intro
-<p style="text-align: center;">[ThirdPatch Website](https://thirdpartypatching.com/) | [Package Gallery](https://gallery.thirdpatch.com/) | [ThirdPatch Docs](https://docs.thirdpartypatching.com/)</p>
+<p style="text-align: center;"> <a href="https://thirdpartypatching.com/">ThirdPatch Website</a> |
+<a href="https://gallery.thirdpatch.com/">Package Gallery</a> |
+<a href="https://docs.thirdpartypatching.com/">ThirdPatch Docs</a> </p>
 
 ThirdPatch™ is an RMM-neutral solution for deploying and patching third-party software. It's designed for MSPs, and uses a package-based architecture to manage software in groups instead of app-by-app logic.
 
