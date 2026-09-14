@@ -1,11 +1,13 @@
-<img src="/images/THIRD-PATCH-LOGO.png" style="width: 300px; height: auto; align: center" />
+<div align="center">
+<img src="/images/THIRD-PATCH-LOGO.png" style="width: 300px; height: auto;" />
+</div>
 
 # ThirdPatch - Third-Party Patch Management for MSPs
 
 ## Intro
-<p style="text-align: center;"> <a href="https://thirdpartypatching.com/">ThirdPatch Website</a> |
+<div style="text-align: center;"> <a href="https://thirdpartypatching.com/">ThirdPatch Website</a> |
 <a href="https://gallery.thirdpatch.com/">Package Gallery</a> |
-<a href="https://docs.thirdpartypatching.com/">ThirdPatch Docs</a> </p>
+<a href="https://docs.thirdpartypatching.com/">ThirdPatch Docs</a> </div>
 
 ThirdPatch™ is an RMM-neutral solution for deploying and patching third-party software. It's designed for MSPs, and uses a package-based architecture to manage software in groups instead of app-by-app logic.
 
@@ -46,3 +48,7 @@ This command will remove Chromium:
 
 
 ## More
+
+We have a full-length webinar covering ThirdPatch here:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ebEdAhuB4PY?si=BRLY4gLmbCOoxnne" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
