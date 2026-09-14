@@ -23,15 +23,21 @@ Run the following command in PowerShell as Administrator to install the ThirdPat
 
 ### Install Apps
 
-In the same terminal, run this command to install a specific version of the SeaMonkey web browser (yes, [it's still around](https://www.seamonkey-project.org/)):
+In the same terminal, run this command to install a specific version of the Chromium web browser ([the open-source part of Google Chrome](https://www.chromium.org/Home/)):
 
-    thirdpatch install seamonkey --version 2.53.18
+    thirdpatch install chromium --version 150.0.7871.187
 
 ### Update Apps
 
-Run this command to update SeaMonkey (and any other apps) to the latest version:
+Run this command to update Chromium (and any other apps) to the latest version:
 
     thirdpatch upgrade
+
+### Uninstall Apps
+
+This command will remove Chromium
+
+    thirdpatch uninstall chromium
 
 
 # More
