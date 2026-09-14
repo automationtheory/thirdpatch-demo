@@ -51,4 +51,4 @@ This command will remove Chromium:
 
 We have a full-length webinar covering ThirdPatch here:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ebEdAhuB4PY?si=BRLY4gLmbCOoxnne" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://i.ytimg.com/vi/ebEdAhuB4PY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDAgMw6AUGY2FQJBzfDhQSb2uELqQ)](https://youtu.be/ebEdAhuB4PY?si=yZe15kBDoBxnemHu)
