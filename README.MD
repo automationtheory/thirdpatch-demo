@@ -26,7 +26,7 @@ This demo walks though installing ThirdPatch, using it to install applications, 
 
 Run the following command in PowerShell as Administrator to install the ThirdPatch client:
 
-    Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; if (!(Test-Path \"$env:PROGRAMDATA\\thirdpatch\\bin\\thirdpatch.exe\")) {iex ((New-Object System.Net.WebClient).DownloadString('https://thrdpt.ch/install'))}; 
+    Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; if (!(Test-Path \"$env:PROGRAMDATA\\thirdpatch\\bin\\thirdpatch.exe\")) {iex ((New-Object System.Net.WebClient).DownloadString('https://thrdpt.ch/install'))}; thirdpatch source add -n="ThirdPatch Demo" -s="https://livedemo.thirdpatch.com/repository/community/"
 
 #### Install Apps
 
