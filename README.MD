@@ -5,7 +5,7 @@
 # ThirdPatch - Third-Party Patch Management for MSPs
 
 ## Intro
-<div style="align: center;"> <a href="https://thirdpartypatching.com/">ThirdPatch Website</a> |
+<div align="center"> <a href="https://thirdpartypatching.com/">ThirdPatch Website</a> |
 <a href="https://gallery.thirdpatch.com/">Package Gallery</a> |
 <a href="https://docs.thirdpartypatching.com/">ThirdPatch Docs</a> </div>
 
